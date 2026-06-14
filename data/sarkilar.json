@@ -1,0 +1,12 @@
+[
+    {
+        "isim": "Test Şarkısı",
+        "sanatci": "Bilinmeyen Sanatçı",
+        "dosya": "test.mp3"
+    },
+    {
+        "isim": "Ostim Kampüs",
+        "sanatci": "Öğrenci İşi",
+        "dosya": "test.mp3"
+    }
+]
